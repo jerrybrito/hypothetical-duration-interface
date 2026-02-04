@@ -1,0 +1,2 @@
+# Requires: unlikely-ambiguity
+# (Not available on PyPI)
